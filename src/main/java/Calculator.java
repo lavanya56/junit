@@ -5,5 +5,5 @@ public class Calculator {
       sum += Integer.valueOf(summand);
     return sum;
   }
-}
+
 
